@@ -21,7 +21,7 @@ Application Modernization, Solution Architecture, Cloud Transformation, Cloud-Na
 **Technical Tools:**  Visual Studio Code, Eclipse, IntelliJ, Postman, SoapUI, Draw.io, Swagger, MongoDB Compass, MySQL Workbench, NoSQL Workbench
 
 # CERTIFICATIONS & SKILL BADGES
-<a href="https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url" target="_blank" rel="noopener noreferrer"><img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125"></a> <a href="https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url" target="_blank" rel="noopener noreferrer"><img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="100" width="100"></a>
+<a href="https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url" target="_blank"><img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125"></a> <a href="https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url" target="_blank"><img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="100" width="100"></a>
 
 
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54850956/196749265-cc15f200-d441-496e-bd1a-782236e07620.png)
