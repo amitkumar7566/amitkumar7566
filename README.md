@@ -1,4 +1,7 @@
-Amit Kumar is an AWS cloud Architect & Technical Lead. Having a great style of leading a team and over a decade of demonstrated experience in the professional world, he is certified in the AWS cloud services and other cutting-edge technologies. He brings his expertise in the end-to-end process of the Cloud Application Architecture & Development, Micro-Services, REST Web Services, API Design & Development, AWS Cloud Services, DevSecOps, Docker, Containers and many more.
+# A certified AWS cloud Architect & Technical Lead. 
+![LinkedIn_logo](https://user-images.githubusercontent.com/54850956/196768868-689e75cf-0d11-4dbd-a058-b031a398b72e.png) https://www.linkedin.com/in/amitkumar7566
+
+
 
 # TECHNICAL SKILLS
 **Specialities:**  
