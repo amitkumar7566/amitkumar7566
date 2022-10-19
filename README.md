@@ -23,9 +23,9 @@ Application Modernization, Solution Architecture, Cloud Transformation, Cloud-Na
 # CERTIFICATIONS & SKILL BADGES
 [<img alt="aws-certified-solutions-architect-professional" src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
 [<img alt="aws-certified-devops-engineer-professional" src="https://user-images.githubusercontent.com/54850956/196749266-79f2dbf5-96c9-49de-8b0b-9a0bbd37ea3f.png" height="125" width="125">](https://www.credly.com/badges/bb29330f-fa9b-4e4a-9f25-c8dc1abe8156/public_url)
-[<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
-[<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
-[<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
+[<img alt="aws-certified-solutions-architect-associate" src="https://user-images.githubusercontent.com/54850956/196749269-5d04b84b-e92d-487b-b05f-d3a9c0ba04eb.png" height="125" width="125">](https://www.credly.com/badges/b13074ab-029c-4bb2-bf24-dc0431a5dbb2/public_url)
+[<img alt="aws-certified-developer-associate" src="https://user-images.githubusercontent.com/54850956/196749265-cc15f200-d441-496e-bd1a-782236e07620.png" height="125" width="125">](https://www.credly.com/badges/5ec2fd95-a3d9-4a35-b596-6422cb77e0fa/public_url)
+[<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/2dd1176a-876b-43c0-a44b-ff5e796aac60/public_url)
 [<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
 [<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
 [<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
@@ -43,12 +43,6 @@ Application Modernization, Solution Architecture, Cloud Transformation, Cloud-Na
 [<img alt="aws-certified-cloud-practitioner" src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
 
 
-
-
-![aws-certified-developer-associate](https://user-images.githubusercontent.com/54850956/196749265-cc15f200-d441-496e-bd1a-782236e07620.png)
-![]()
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/54850956/196749269-5d04b84b-e92d-487b-b05f-d3a9c0ba04eb.png)
-![]()
 ![cloud-core](https://user-images.githubusercontent.com/54850956/196749278-832cabec-8925-47d7-993f-8bcd16b67a78.png)
 ![cloud-service-management-and-operations-explorer](https://user-images.githubusercontent.com/54850956/196749284-203ef265-eba1-4494-970c-2733feffad1b.png)
 ![containers-kubernetes-essentials](https://user-images.githubusercontent.com/54850956/196749291-264702e8-6f9f-47c5-92e6-d586655cf57f.png)
