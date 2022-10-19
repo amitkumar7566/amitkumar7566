@@ -5,7 +5,7 @@
 
 
 
-# TECHNICAL SKILLS
+### TECHNICAL SKILLS
 **Specialities:**  
 Application Modernization, Solution Architecture, Cloud Transformation, Cloud-Native Architecture, Cloud Migration, Serverless Architecture, System Design, Domain-driven Design, Event-Driven Architecture, DevSecOps, REST Web services, Micro-Services, API Design & Development, Linux Shell-scripting, Test-driven development, Behaviour-driven development, Object-oriented Design & Development, Functional Programming, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
 
@@ -21,7 +21,7 @@ Application Modernization, Solution Architecture, Cloud Transformation, Cloud-Na
 **Project Management Tools:**  Jira, Agility, Mural, Miro  
 **Technical Tools:**  Visual Studio Code, Eclipse, IntelliJ, Postman, SoapUI, Draw.io, Swagger, MongoDB Compass, MySQL Workbench, NoSQL Workbench
 
-# CERTIFICATIONS & SKILL BADGES
+### CERTIFICATIONS & SKILL BADGES
 [<img alt="aws-certified-solutions-architect-professional" src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
 [<img alt="aws-certified-devops-engineer-professional" src="https://user-images.githubusercontent.com/54850956/196749266-79f2dbf5-96c9-49de-8b0b-9a0bbd37ea3f.png" height="125" width="125">](https://www.credly.com/badges/bb29330f-fa9b-4e4a-9f25-c8dc1abe8156/public_url)
 [<img alt="aws-certified-solutions-architect-associate" src="https://user-images.githubusercontent.com/54850956/196749269-5d04b84b-e92d-487b-b05f-d3a9c0ba04eb.png" height="125" width="125">](https://www.credly.com/badges/b13074ab-029c-4bb2-bf24-dc0431a5dbb2/public_url)
