@@ -1,5 +1,4 @@
-<b>A Certified Cloud Architect (AWS) & Technical Lead</b>  
-<!-- <img alt="LinkedIn_logo" src="https://user-images.githubusercontent.com/54850956/196769657-18294336-7277-47a1-85e2-1074bfe9c9ec.png" height="25" width="25"> -->
+## Certified Cloud Architect (AWS) & Technical Lead
 [Connect with me on LinkedIn](https://www.linkedin.com/in/amitkumar7566) 
 
 
