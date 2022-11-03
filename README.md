@@ -1,4 +1,4 @@
-## Certified Cloud Architect (AWS) & Technical Lead
+## Certified AWS Cloud Architect / Developer
 [Connect with me on LinkedIn](https://www.linkedin.com/in/amitkumar7566) 
 
 
