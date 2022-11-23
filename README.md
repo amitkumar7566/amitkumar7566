@@ -6,19 +6,20 @@
 
 ### TECHNICAL SKILLS
 **Specialities:**  
-Application Modernization, Solution Architecture, Cloud Transformation, Cloud-Native Architecture, Cloud Migration, Serverless Architecture, System Design, Domain-driven Design, Event-Driven Architecture, DevSecOps, REST Web services, Micro-Services, API Design & Development, Linux Shell-scripting, Test-driven development, Behaviour-driven development, Object-oriented Design & Development, Functional Programming, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
+Solution Architecture, Application Modernization, Cloud-Native Architecture, Serverless Architecture, Event-Driven Architecture, Cloud Migration, System Design, Domain-driven Design, REST API Design & Development, Microservices, DevOps, Test-driven development, Functional Programming, Object-oriented Design & Development, OpenAPI Specification, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
 
-**Language:**  Java, JavaScript, Typescript, Shell-Script, HTML, CSS  
+
+**Language:**  Java, JavaScript, Typescript, HTML, CSS  
 **Framework:**  Spring Boot, Quarkus, Hibernate, Angular, Node.js, Express.js  
-**Libraries:**  Maven, Lombok, Bootstrap, Angular Material, NgRx/Redux, SCSS  
-**Databases:**  MySQL, Oracle, MongoDB, DynamoDB  
+**Libraries:**  Maven, Lombok, NPM, Bootstrap, NgRx/Redux, SCSS  
+**Databases:**  MySQL, Oracle, MongoDB, Amazon DynamoDB, Amazon Aurora  
 **Messaging:**  Apache Kafka, AWS SQS, AWS SNS  
 **Testing:**  Junit, Mockito, PITest, REST Assured, Cucumber, Karma, Jasmine  
-**DevSecOps:**  CI/CD, Git, Nexus, AWS Codepipeline, Veracode, SonarQube, Docker, OpenShift  
+**DevOps:**  CI/CD, Git, Nexus, AWS Codepipeline, AWS Cloudformation, Veracode, SonarQube, Docker, Kubernetes, Helm  
 **Cloud:**  Amazon Web Services, Spring Cloud Services  
 **Methodologies:**  Agile, IBM Garage, SCRUM, KANBAN, Pair-Programming, Co-Create  
 **Project Management Tools:**  Jira, Agility, Mural, Miro  
-**Technical Tools:**  Visual Studio Code, Eclipse, IntelliJ, Postman, SoapUI, Draw.io, Swagger, MongoDB Compass, MySQL Workbench, NoSQL Workbench
+**Technical Tools:**  Visual Studio Code, Eclipse, IntelliJ, Postman, SoapUI, Draw.io, Swagger, Docker Desktop, MongoDB Compass, MySQL Workbench, NoSQL Workbench
 
 ### CERTIFICATIONS & SKILL BADGES
 [<img alt="aws-certified-solutions-architect-professional" src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
