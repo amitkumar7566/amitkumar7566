@@ -2,8 +2,6 @@
 [Connect with me on LinkedIn](https://www.linkedin.com/in/amitkumar7566) 
 
 
-
-
 ### TECHNICAL SKILLS
 **Specialities:**  
 Solution Architecture, Application Modernization, Cloud-Native Architecture, Serverless Architecture, Event-Driven Architecture, Cloud Migration, System Design, Domain-driven Design, REST API Design & Development, Microservices, DevOps, Test-driven development, Functional Programming, Object-oriented Design & Development, OpenAPI Specification, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
