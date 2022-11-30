@@ -1,8 +1,8 @@
-## Certified AWS Cloud Architect / Developer
-[Connect with me on LinkedIn](https://www.linkedin.com/in/amitkumar7566) 
+## 👋Hi, I'm Amit, a certified Cloud Architect / Developer
 
+[![Follow me on LinkedIn @amitkumar7566](https://img.shields.io/badge/-Follow_me_on_LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitkumar7566/)](https://www.linkedin.com/in/amitkumar7566/) &nbsp;
 
-### TECHNICAL SKILLS
+### 💻 TECHNICAL SKILLS
 **Specialities:**  
 Solution Architecture, Application Modernization, Cloud-Native Architecture, Serverless Architecture, Event-Driven Architecture, Cloud Migration, System Design, Domain-driven Design, REST API Design & Development, Microservices, DevOps, Test-driven development, Functional Programming, Object-oriented Design & Development, OpenAPI Specification, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
 
@@ -19,7 +19,7 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 **Project Management Tools:**  Jira, Agility, Mural, Miro  
 **Technical Tools:**  Visual Studio Code, Eclipse, IntelliJ, Postman, SoapUI, Draw.io, Swagger, Docker Desktop, MongoDB Compass, MySQL Workbench, NoSQL Workbench
 
-### CERTIFICATIONS & SKILL BADGES
+### 💻 CERTIFICATIONS & SKILL BADGES
 [<img alt="aws-certified-solutions-architect-professional" src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
 [<img alt="aws-certified-devops-engineer-professional" src="https://user-images.githubusercontent.com/54850956/196749266-79f2dbf5-96c9-49de-8b0b-9a0bbd37ea3f.png" height="125" width="125">](https://www.credly.com/badges/bb29330f-fa9b-4e4a-9f25-c8dc1abe8156/public_url)
 [<img alt="aws-certified-solutions-architect-associate" src="https://user-images.githubusercontent.com/54850956/196749269-5d04b84b-e92d-487b-b05f-d3a9c0ba04eb.png" height="125" width="125">](https://www.credly.com/badges/b13074ab-029c-4bb2-bf24-dc0431a5dbb2/public_url)
