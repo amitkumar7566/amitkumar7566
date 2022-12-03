@@ -12,12 +12,12 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 **Libraries:**  Maven, Lombok, NPM, Bootstrap, NgRx/Redux, SCSS  
 **Databases:**  MySQL, Oracle, MongoDB, Amazon DynamoDB, Amazon Aurora  
 **Messaging:**  Apache Kafka, AWS SQS, AWS SNS  
-**Testing:**  Junit, Mockito, PITest, REST Assured, Cucumber, Karma, Jasmine  
-**DevOps:**  CI/CD, Git, Nexus, AWS Codepipeline, AWS Cloudformation, Veracode, SonarQube, Docker, Kubernetes, Helm  
+**Testing:**  Junit, Mockito, PITest, Cucumber, REST Assured, Karma, Jasmine  
+**DevOps:**  CI/CD, Git, AWS Codepipeline, AWS Cloudformation, Docker, Kubernetes 
 **Cloud:**  Amazon Web Services, Spring Cloud Services  
-**Methodologies:**  Agile, IBM Garage, SCRUM, KANBAN, Pair-Programming, Co-Create  
-**Project Management Tools:**  Jira, Agility, Mural, Miro  
-**Technical Tools:**  Visual Studio Code, Eclipse, IntelliJ, Postman, SoapUI, Draw.io, Swagger, Docker Desktop, MongoDB Compass, MySQL Workbench, NoSQL Workbench
+**Methodologies:**  Agile, IBM Garage, SCRUM, Pair-Programming, Co-Create  
+**APM Tools:**  Jira, Agility, Mural, Miro  
+**Tech Tools:**  Visual Studio Code, Eclipse, IntelliJ, Postman, SoapUI, Draw.io, Swagger, Docker Desktop, MongoDB Compass, MySQL Workbench, NoSQL Workbench
 
 ### 💻 CERTIFICATIONS & SKILL BADGES
 [<img alt="aws-certified-solutions-architect-professional" src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" height="125" width="125">](https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url)
