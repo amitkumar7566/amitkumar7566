@@ -1,6 +1,10 @@
-## 👋Hi, I'm Amit, a certified Cloud Architect / Developer
+<h2>👋 Hi, I'm Amit, a certified Cloud Architect / Developer. Nice to meet you!</h2>
 
-[![Follow me on LinkedIn @amitkumar7566](https://img.shields.io/badge/-Follow_me_on_LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitkumar7566/)](https://www.linkedin.com/in/amitkumar7566/) &nbsp;
+<p>
+  <h3>📟 Connect with me over</h3>
+  <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>
+  <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = 30></a>
+</p>
 
 ### 💻 Talks About
 **Specialities:**  
