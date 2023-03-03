@@ -2,7 +2,7 @@
 
 <p>
   <h3>📟 Connect with me over</h3>
-  <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>
+  <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>&nbsp;&nbsp;
   <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = 30></a>
 </p>
 
