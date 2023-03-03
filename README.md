@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Amit, a certified Cloud Architect / Developer. Nice to meet you!</h2>
+<h2>👋 Hi, I'm Amit, a certified Cloud Architect & Developer. Nice to meet you!</h2>
 
 <p>
   <h3>📟 Connect with me over</h3>
