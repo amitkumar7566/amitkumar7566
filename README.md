@@ -26,12 +26,12 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
   <tr>
     <td align="center" width="16.66%">
       <a href="https://www.credly.com/badges/de66e82b-084e-436c-a485-e1bb52a0fa45/public_url">
-        <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" width="150" height="150" alt="aws-certified-security-specialty" />
+        <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" width="100" height="100" alt="aws-certified-security-specialty" />
       </a>
     </td>
     <td align="center" width="16.66%">
       <a href="https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url">
-        <img src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" width="150" height="150" alt="aws-certified-solutions-architect-professional" />
+        <img src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" width="100" height="100" alt="aws-certified-solutions-architect-professional" />
       </a>
     </td>
     <td align="center" width="16.66%">
