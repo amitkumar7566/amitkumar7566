@@ -22,7 +22,7 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 <hr>
 
 ### 🪪 Digital Credentials
-<table width="100%">
+<table width="100%" height="100%">
   <tr>
     <td align="center" width="16.66%" height="50%">
       <a href="https://www.credly.com/badges/de66e82b-084e-436c-a485-e1bb52a0fa45/public_url">
