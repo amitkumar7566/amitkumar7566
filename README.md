@@ -22,8 +22,8 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 <hr>
 
 ### 🪪 Digital Credentials
-<table width="100%">
-  <tr>
+<table width="100%" height="100%">
+  <tr height="50%">
     <td align="center" width="16.66%">
       <a href="https://www.credly.com/badges/de66e82b-084e-436c-a485-e1bb52a0fa45/public_url">
         <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" width="100%" height="100%" alt="aws-certified-security-specialty" />
@@ -55,7 +55,7 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
       </a>
     </td>
   </tr>
-  <tr>
+  <tr height="50%">
     <td align="center" width="16.66%">
       <a href="https://www.credly.com/badges/abeaa994-ead8-49ea-b407-8882e81ba1e8/public_url">
         <img src="https://user-images.githubusercontent.com/54850956/228799143-15836ad5-9a60-4997-aad9-3d3a57742ac7.png" width="100%" height="100%" alt="microsoft-certified-azure-fundamentals" />
