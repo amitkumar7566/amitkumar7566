@@ -22,9 +22,9 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 <hr>
 
 ### 🪪 Digital Credentials
-<table width="100%" height="100%">
-  <tr height="50%">
-    <td align="center" width="16.66%">
+<table width="100%">
+  <tr>
+    <td align="center" width="16.66%" height="50%">
       <a href="https://www.credly.com/badges/de66e82b-084e-436c-a485-e1bb52a0fa45/public_url">
         <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" width="100%" height="100%" alt="aws-certified-security-specialty" />
       </a>
