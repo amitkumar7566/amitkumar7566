@@ -4,7 +4,7 @@
   <h3 align="center">💬 Connect with me</h3>
   <p align="center">
     <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height=30></a>&nbsp;&nbsp;
-    <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://github.com/amitkumar7566?tab=followers"><img src = "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "mailto:amitkumar7566@gmail.com"><img src = "https://img.shields.io/badge/Email-c14438?style=flat&logo=Gmail&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://medium.com/@amitkumar7566"><img src = "https://img.shields.io/badge/Medium-03a57a?style=flat&labelColor=000000&logo=Medium" height=30></a>&nbsp;&nbsp;
     <a href = "https://www.youtube.com/@amitkumar7566?sub_confirmation=1"><img src = "https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" height=30></a>&nbsp;&nbsp;
