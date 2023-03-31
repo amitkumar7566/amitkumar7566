@@ -109,22 +109,20 @@
 <details open>
   <summary><h2>&nbsp; 📈 GitHub Stats</h2></summary>
   
-  <table align="center" width="100%">
-    <tr width="100%">
-      <td align="center" width="33.33%">
+  <table align="center" style="width:100%">
+    <tr>
+      <td align="center" style="width:33.33%">
         <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar7566&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Amit's github stats" width="100%"/></a>
       </td>
-      <td align="center" width="33.33%">
+      <td align="center" style="width:33.33%">
         <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar7566&layout=compact&theme=dark&hide_border=false" width="100%"/></a>
       </td>
-      <td align="center" width="33.33%">
+      <td align="center" style="width:33.33%">
         <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitkumar7566&theme=dark&hide_border=false" alt="Amit's github streaks" width="100%"/></a>
       </td>
     </tr>
-  </table>
-  <table align="center" width="100%">
-    <tr width="100%">
-      <td align="center" width="100%">
+    <tr>
+      <td align="center" colspan="3" style="width:100%">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitkumar7566&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
       </td>
     </tr>
