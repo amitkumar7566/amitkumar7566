@@ -5,6 +5,7 @@
   <p align="center">
     <a href = "https://linkedin.com/in/amitkumar7566?following=true"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://github.com/amitkumar7566?tab=followers"><img src = "https://img.shields.io/badge/GitHub-%23100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://stackoverflow.com/users/15718931"><img src = "https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stackoverflow&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://twitter.com/intent/user?screen_name=amitkumar7566"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-&logo=twitter&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://www.instagram.com/amitkumar_7566?hl=en&action=follow"><img src = "https://img.shields.io/badge/Instagram-%23e4405f?style=flat&logo=Instagram&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://medium.com/@amitkumar7566?follow"><img src = "https://img.shields.io/badge/Medium-%2303a57a?style=flat&labelColor=000000&logo=Medium" height=30></a>&nbsp;&nbsp;
