@@ -1,9 +1,17 @@
+<p align="center">
+<a href="https://github.com/amitkumar7566/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=IBM&role=Cloud%20Architect%20&fill=black">
+</a>
+
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a certified Cloud Architect & Developer. Nice to meet you !!</h2>
 
 <p>
   <h3> 📟 Connect with me</h3>
-  <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height = 35></a>&nbsp;&nbsp;
-  <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height = 35></a>
+  <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height=30></a>&nbsp;&nbsp;
+  <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
+  <a href = "mailto:amitkumar7566@gmail.com"><img src = "https://img.shields.io/badge/Email-c14438?style=flat&logo=Gmail&logoColor=white" height=30></a>&nbsp;&nbsp;
+  <a href = "https://medium.com/@amitkumar7566"><img src = "https://img.shields.io/badge/Medium-03a57a?style=flat&labelColor=000000&logo=Medium" height=30></a>&nbsp;&nbsp;
+  <a href = "https://www.youtube.com/@amitkumar7566"><img src = "https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" height=30></a>&nbsp;&nbsp;
 </p>
 
 <hr>
