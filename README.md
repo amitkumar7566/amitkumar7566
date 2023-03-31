@@ -1,8 +1,3 @@
-<p align="center">
-<a href="https://github.com/amitkumar7566/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=IBM&role=Cloud%20Architect%20&fill=black">
-</a>
-
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a certified Cloud Architect & Developer. Nice to meet you !!</h2>
 
 <p>
