@@ -98,7 +98,6 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 <hr>
 
 ### 📈 GitHub Stats
-
 <table align="center" width="100%">
   <tr width="100%">
     <td align="center" width="33.33%">
@@ -112,7 +111,6 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
     </td>
   </tr>
 </table>
-
 <table align="center" width="100%">
   <tr width="100%">
     <td align="center" width="100%">
@@ -120,7 +118,6 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
     </td>
   </tr>
 </table>
-
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
 </p>
