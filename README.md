@@ -28,7 +28,6 @@
   **Messaging:**   Apache Kafka, AWS SQS, AWS SNS  
   **DevOps:**   CI/CD, AWS Codepipeline, AWS Cloudformation, Docker, Kubernetes  
   **Cloud:**   Amazon Web Services, Spring Cloud Services 
-  
 </details>
 
 <hr>
