@@ -111,18 +111,18 @@
   <table style="width:100%;">
     <tr>
       <td style="width:33.33%; text-align: center; vertical-align: middle;">
-        <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar7566&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Amit's github stats" style="width:100%; vertical-align: middle;"/></a>
+        <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar7566&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Amit's github stats" style="width:100%; vertical-align: middle;"/></a>
       </td>
       <td style="width:33.33%; text-align: center; vertical-align: middle;">
-        <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar7566&layout=compact&theme=dark&hide_border=false" style="width:100%; vertical-align: middle;"/></a>
+        <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar7566&layout=compact&theme=radical&hide_border=false" style="width:100%; vertical-align: middle;"/></a>
       </td>
       <td style="width:33.33%; text-align: center; vertical-align: middle;">
-        <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitkumar7566&theme=dark&hide_border=false" alt="Amit's github streaks" style="width:100%; vertical-align: middle;"/></a>
+        <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitkumar7566&theme=radical&hide_border=false" alt="Amit's github streaks" style="width:100%; vertical-align: middle;"/></a>
       </td>
     </tr>
     <tr>
       <td colspan="3" style="width:100%; text-align: center; vertical-align: middle;">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitkumar7566&theme=react-dark&bg_color=20232a&hide_border=false" style="width:100%; vertical-align: middle;"/>
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitkumar7566&theme=redical&bg_color=20232a&hide_border=false&radius=5" style="width:100%; vertical-align: middle;"/>
       </td>
     </tr>
   </table>
