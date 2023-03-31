@@ -10,6 +10,7 @@
     <a href = "https://www.youtube.com/@amitkumar7566?sub_confirmation=1"><img src = "https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://m.me/amitkumar7566"><img src = "https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=Messenger&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://t.me/amitkumar7566"><img src = "https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://www.instagram.com/amitkumar_7566"><img src = "https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white" height=30></a>&nbsp;&nbsp;
   </p>
 </p>
 
