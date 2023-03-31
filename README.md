@@ -89,12 +89,11 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
   </tr>
 </table>
 
-<!-- <hr>
+<hr>
 
 ### 📈 GitHub Stats
 | <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar7566&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Amit's github stats" /></a> | <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar7566&layout=compact&theme=dark&hide_border=false" /></a> | <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitkumar7566&theme=dark&hide_border=false" alt="Amit's github streaks" /></a> |
 | ------------- | ------------- | ------------- |
- -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
