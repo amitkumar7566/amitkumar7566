@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a certified Cloud Architect & Developer. Nice to meet you !!</h2>
 
 <p>
-  <h3 align="center"> 📟 Connect with me</h3>
+  <h3 align="center">💬 Connect with me</h3>
   <p align="center">
     <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 
 <hr>
 
-### 💬 Talks About
+### 🛠️ Technologies & Tools
 **Specialities:**  
 Solution Architecture, Application Modernization, Cloud-Native Architecture, Serverless Architecture, Event-Driven Architecture, Cloud Migration, System Design, Domain-driven Design, REST API Design & Development, Microservices, DevOps, Test-driven development, Functional Programming, Object-oriented Design & Development, OpenAPI Specification, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
 
