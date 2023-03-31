@@ -1,12 +1,15 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a certified Cloud Architect & Developer. Nice to meet you !!</h2>
 
 <p>
-  <h3> 📟 Connect with me</h3>
-  <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height=30></a>&nbsp;&nbsp;
-  <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
-  <a href = "mailto:amitkumar7566@gmail.com"><img src = "https://img.shields.io/badge/Email-c14438?style=flat&logo=Gmail&logoColor=white" height=30></a>&nbsp;&nbsp;
-  <a href = "https://medium.com/@amitkumar7566"><img src = "https://img.shields.io/badge/Medium-03a57a?style=flat&labelColor=000000&logo=Medium" height=30></a>&nbsp;&nbsp;
-  <a href = "https://www.youtube.com/@amitkumar7566"><img src = "https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" height=30></a>&nbsp;&nbsp;
+  <h3 align="center"> 📟 Connect with me</h3>
+  <p align="center">
+    <a href = "https://linkedin.com/in/amitkumar7566"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://github.com/amitkumar7566"><img src = "https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "mailto:amitkumar7566@gmail.com"><img src = "https://img.shields.io/badge/Email-c14438?style=flat&logo=Gmail&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://medium.com/@amitkumar7566"><img src = "https://img.shields.io/badge/Medium-03a57a?style=flat&labelColor=000000&logo=Medium" height=30></a>&nbsp;&nbsp;
+    <a href = "https://www.youtube.com/@amitkumar7566"><img src = "https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://m.me/amitkumar7566"><img src = "https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=Messenger&logoColor=white" height=30></a>&nbsp;&nbsp;
+  </p>
 </p>
 
 <hr>
@@ -25,7 +28,7 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 <hr>
 
 ### 🪪 Digital Credentials
-<table width="100%" height="100%">
+<table align="center" width="100%" height="100%">
   <tr>
     <td align="center" width="16.66%" height="50%">
       <a href="https://www.credly.com/badges/de66e82b-084e-436c-a485-e1bb52a0fa45/public_url">
@@ -95,8 +98,28 @@ Solution Architecture, Application Modernization, Cloud-Native Architecture, Ser
 <hr>
 
 ### 📈 GitHub Stats
-| <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar7566&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Amit's github stats" /></a> | <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar7566&layout=compact&theme=dark&hide_border=false" /></a> | <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitkumar7566&theme=dark&hide_border=false" alt="Amit's github streaks" /></a> |
-| ------------- | ------------- | ------------- |
+
+<table align="center" width="100%">
+  <tr width="100%">
+    <td align="center" width="33.33%">
+      <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar7566&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Amit's github stats" width="100%"/></a>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar7566&layout=compact&theme=dark&hide_border=false" width="100%"/></a>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitkumar7566&theme=dark&hide_border=false" alt="Amit's github streaks" width="100%"/></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr width="100%">
+    <td align="center" width="100%">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitkumar7566&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
