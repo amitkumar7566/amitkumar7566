@@ -22,14 +22,281 @@
   <summary><h2>&nbsp; 🛠️ Technologies & Tools</h2></summary>
   
   **Specialities:**  
-    Solution Architecture, Application Modernization, Cloud-Native Architecture, Serverless Architecture, Event-Driven Architecture, Cloud Migration, System Design, Domain-driven Design, REST API Design & Development, Microservices, DevOps, Test-driven development, Functional Programming, Object-oriented Design & Development, OpenAPI Specification, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
+  Solution Architecture, Application Modernization, Cloud-Native Architecture, Serverless Architecture, Event-Driven Architecture, Cloud Migration, System Design, Domain-driven Design, REST API Design & Development, Microservices, DevOps, Test-driven development, Functional Programming, Object-oriented Design & Development, OpenAPI Specification, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
   
-  **Language:**   Java, JavaScript, Typescript, HTML, CSS  
-  **Framework:**   Spring Boot, Quarkus, Hibernate, Angular, Node.js, Express.js   
-  **Databases:**   MySQL, Oracle, MongoDB, Amazon DynamoDB, Amazon Aurora  
-  **Messaging:**   Apache Kafka, AWS SQS, AWS SNS  
-  **DevOps:**   CI/CD, AWS Codepipeline, AWS Cloudformation, Docker, Kubernetes  
-  **Cloud:**   Amazon Web Services, Spring Cloud Services 
+  <br>
+  
+  <table>
+    <tr>
+      <td>
+        <h4>Programming Languages</h4>
+      </td>
+      <td>
+        <a title="Java" href="https://java.com" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="TypeScript" href="https://www.typescriptlang.org" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>Frameworks</h4>
+      </td>
+      <td>
+        <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Quarkus" href="https://quarkus.io" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229288583-d34456f2-1b02-42f0-bb1d-a0724eb4fe0f.svg" alt="quarkus" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Hibernate" href="https://hibernate.org" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229288659-96da4dde-7fd8-4a89-adcc-42f15b19837a.svg" alt="hibernate" width="40" height="40" /> 
+        </a
+      </td>
+      <td>
+        <a title="Angular" href="https://angular.io" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229288952-71b79671-a80b-403e-9ac4-a613c8ea258d.svg" alt="angular" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Node.js" href="https://nodejs.org" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Express" href="http://expressjs.com" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>Libraries</h4>
+      </td>
+      <td>
+        <a title="Maven" href="https://maven.apache.org" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229289101-52b0ffa9-bf53-4128-b49f-6dfb6e3f855d.svg" alt="maven" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Lombok" href="https://projectlombok.org/" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229289558-55d7534b-0c49-44e4-a78d-35ac90c58bf2.png" alt="lombok" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="NPM" href="https://www.npmjs.com/" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229289764-0634d815-8a1c-4133-9ba5-87e5757502ce.svg" alt="npm" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Bootstrap" href="https://getbootstrap.com" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="SCSS" href="https://sass-lang.com" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229289996-8d0456bc-57ba-4dc3-85b1-8115bcef475a.svg" alt="scss" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="NgRx" href="https://ngrx.io" target="_blank"> 
+          <img src="https://ngrx.io/assets/images/badge.svg" alt="ngrx" width="40" height="40"/>
+        </a>
+      </td>
+        <td>
+        <a title="Redux" href="https://redux.js.org" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>Databases</h4>
+      </td>
+      <td>
+        <a title="MySQL" href="https://mysql.com" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a title="PostgreSQL" href="https://postgresql.org" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Oracle" href="https://www.oracle.com" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229290691-31df35cf-c74a-4999-9330-42029c381346.svg" alt="oracle" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="MongoDB" href="http://mongodb.com" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="DynamoDB" href="https://aws.amazon.com/dynamodb" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229290863-42bf4921-b180-479c-a439-82bf3e1f430c.svg" alt="dynamodb" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Amazon Aurora" href="https://aws.amazon.com/rds/aurora/" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229291101-dc07b531-08df-4f6f-8307-8610d2da57a1.svg" alt="aurora" width="40" height="40" /> 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>Messaging</h4>
+      </td>
+      <td>
+        <a title="Apache Kafka" href="https://kafka.apache.org" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229291416-a13490c6-a841-4899-afc1-be379dbdb28e.svg" alt="apachekafka" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a title="RabbitMQ" href="https://www.rabbitmq.com/" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229291704-cd1fcc95-acda-4967-a2eb-6b8b9dc5c0af.svg" alt="rabbitmq" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a title="Amazon SQS" href="https://aws.amazon.com/sqs" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229291566-443758a1-f177-4d79-a5ed-2026b2c99447.svg" alt="amazonsqs" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a title="Amazon SNS" href="https://aws.amazon.com/sns" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229291629-e04154ab-5004-48f6-bbc3-c9bcd6564359.svg" alt="amazonsns" width="40" height="40" />
+        </a
+    </tr>
+    <tr>
+      <td>
+        <h4>Testing</h4>
+      </td>
+      <td>
+        <a title="JUnit" href="https://junit.org/junit5" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229292138-4e41604d-0c87-4191-b21e-afad31647f5b.png" alt="junit" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Mockito" href="https://site.mockito.org" target="_blank"> 
+          <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Cucumber" href="https://cucumber.io" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="REST Assured" href="https://rest-assured.io" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229293156-9b7cdf1c-fb6c-4889-9039-f00c43e3e656.png" alt="restassured" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Karma" href="https://karma-runner.github.io" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229293338-cc2c9bf4-b84b-4caf-a631-677e6cacc952.svg" alt="karma" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Jasmine" href="https://jasmine.github.io" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229293356-a47b84b1-8bff-4446-af29-0eb37546516b.svg" alt="jasmine" width="40" height="40" /> 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>DevOps</h4>
+      </td>
+      <td>
+        <a title="Git" href="https://git-scm.com" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229293633-8084d14a-95a2-4123-a335-3456a6598609.png" alt="git" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="GitHub" href="https://github.com" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Gitlab" href="https://about.gitlab.com" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a title="AWS CodePipeline" href="https://aws.amazon.com/codepipeline" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229293931-cc04fb3a-c81c-4ecf-81fe-4c4e346e48a2.svg" alt="awscodepipeline" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Tekton" href="https://tekton.dev" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229294841-ae8df8e7-9290-4e31-a64d-716fc4cbe4f9.png" alt="tekton" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="AWS CloudFormation" href="https://aws.amazon.com/cloudformation" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229294347-58bf73b5-74e2-4635-93ad-22fadbce96c6.svg" alt="awscloudformation" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Terraform" href="https://www.terraform.io" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229294715-27d59f5d-44bb-43f6-a04b-6d01ee33db83.svg" alt="terraform" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Docker" href="https://docker.com" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Kubernetes" href="https://kubernetes.io" target="_blank"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"
+            width="40" height="40" /> </a>
+      </td>
+      <td>
+        <a title="Nginx" href="https://nginx.com" target="_blank"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40"
+            height="40" /> </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>Cloud Services</h4>
+      </td>
+      <td>
+        <a title="Amazon Web Services" href="https://aws.amazon.com" target="_blank"> 
+          <img src="https://user-images.githubusercontent.com/54850956/229294950-4231252a-c0a1-4dd2-b9e7-628757320341.svg" alt="aws" width="40" height="40" /> 
+        </a>
+      </td>
+      <td>
+        <a title="Spring Cloud" href="https://spring.io/projects/spring-cloud" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springcloud" width="40" height="40" /> 
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <hr>
