@@ -21,7 +21,7 @@
 <details open>
   <summary><h2>&nbsp; 🛠️ Technologies & Tools</h2></summary>
   
-  **Specialities:**  
+  ### Specialities:
   Solution Architecture, Application Modernization, Cloud-Native Architecture, Serverless Architecture, Event-Driven Architecture, Cloud Migration, System Design, Domain-driven Design, REST API Design & Development, Microservices, DevOps, Test-driven development, Functional Programming, Object-oriented Design & Development, OpenAPI Specification, FinTech, Payment Card Industry Data Security Standard (PCI DSS).
   
   <br>
