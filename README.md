@@ -63,7 +63,7 @@
       </td>
       <td>
         <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40" /> 
+          <img src="https://user-images.githubusercontent.com/54850956/229366110-b0f47c55-b94c-4f54-a7fd-a9d5e4d93b95.png" alt="springboot" width="40" height="40" /> 
         </a>
       </td>
       <td>
