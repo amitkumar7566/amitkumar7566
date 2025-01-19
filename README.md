@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a certified Cloud Architect & Developer. Nice to meet you !!</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a certified Principal Cloud Architect & Developer. Nice to meet you !!</h2>
 
 <p>
   <h3 align="center">💬 Connect with me</h3>
