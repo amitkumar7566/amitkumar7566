@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a certified Principal Cloud Architect & Developer. Nice to meet you !!</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi, I'm Amit, a Director - Solutioning & a certified Principal Architect. Nice to meet you !!</h2>
 
 <p>
   <h3 align="center">💬 Connect with me</h3>
@@ -7,11 +7,11 @@
     <a href = "https://github.com/amitkumar7566?tab=followers"><img src = "https://img.shields.io/badge/GitHub-%23100000?style=flat&logo=github&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://stackoverflow.com/users/15718931"><img src = "https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stackoverflow&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://twitter.com/intent/user?screen_name=amitkumar7566"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-&logo=twitter&logoColor=white" height=30></a>&nbsp;&nbsp;
-    <a href = "https://www.instagram.com/amitkumar_7566?hl=en&action=follow"><img src = "https://img.shields.io/badge/Instagram-%23e4405f?style=flat&logo=Instagram&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://www.instagram.com/itsamitksingh?hl=en&action=follow"><img src = "https://img.shields.io/badge/Instagram-%23e4405f?style=flat&logo=Instagram&logoColor=white" height=30></a>&nbsp;&nbsp;
     <a href = "https://medium.com/@amitkumar7566?follow"><img src = "https://img.shields.io/badge/Medium-%2303a57a?style=flat&labelColor=000000&logo=Medium" height=30></a>&nbsp;&nbsp;
     <a href = "https://www.youtube.com/@amitkumar7566?sub_confirmation=1"><img src = "https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white" height=30></a>&nbsp;&nbsp;
-    <a href = "https://m.me/amitkumar7566"><img src = "https://img.shields.io/badge/Messenger-%230078FF?style=flat&logo=Messenger&logoColor=white" height=30></a>&nbsp;&nbsp;
-    <a href = "https://t.me/amitkumar7566"><img src = "https://img.shields.io/badge/Telegram-%230088cc?style=flat&logo=Telegram&logoColor=white" height=30></a>&nbsp;&nbsp;
+<!--     <a href = "https://m.me/amitkumar7566"><img src = "https://img.shields.io/badge/Messenger-%230078FF?style=flat&logo=Messenger&logoColor=white" height=30></a>&nbsp;&nbsp;
+    <a href = "https://t.me/amitkumar7566"><img src = "https://img.shields.io/badge/Telegram-%230088cc?style=flat&logo=Telegram&logoColor=white" height=30></a>&nbsp;&nbsp; -->
     <a href = "mailto:amitkumar7566@gmail.com"><img src = "https://img.shields.io/badge/Email-%23D14836?style=flat&logo=Gmail&logoColor=white" height=30></a>
   </p>
 </p>
