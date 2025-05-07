@@ -318,7 +318,7 @@
           </td>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
             <a href="https://www.credly.com/badges/6e5af041-deeb-4e99-b70a-990d60e2b3a7/public_url">
-              <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" alt="aws-certified-advanced-networking-specialty" style="vertical-align: middle;"/>
+              <img src="https://github.com/user-attachments/assets/86311a3c-3aff-4beb-b025-4e68aafdd897" alt="aws-certified-advanced-networking-specialty" style="vertical-align: middle;"/>
             </a>
           </td>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
@@ -336,16 +336,16 @@
               <img src="https://user-images.githubusercontent.com/54850956/196749265-cc15f200-d441-496e-bd1a-782236e07620.png" alt="aws-certified-developer-associate" style="vertical-align: middle;"/>
             </a>
           </td>
-          <td style="width:16.66%; text-align: center; vertical-align: middle;">
-            <a href="https://www.credly.com/badges/2dd1176a-876b-43c0-a44b-ff5e796aac60/public_url">
-              <img src="https://user-images.githubusercontent.com/54850956/196749257-c580043a-f781-412f-b7a8-60466d0b89b0.png" alt="aws-certified-cloud-practitioner" style="vertical-align: middle;"/>
-            </a>
-          </td>
         </tr>
         <tr>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
-            <a href="https://www.credly.com/badges/abeaa994-ead8-49ea-b407-8882e81ba1e8/public_url">
-              <img src="https://user-images.githubusercontent.com/54850956/228799143-15836ad5-9a60-4997-aad9-3d3a57742ac7.png" alt="microsoft-certified-azure-fundamentals" style="vertical-align: middle;"/>
+            <a href="https://www.credly.com/badges/abe6c96d-f0b6-4429-9649-d6cc4642fbaf/public_url">
+              <img src="https://github.com/user-attachments/assets/bad22eab-91c1-4d6e-af78-2f24da88fc3e" alt="aws-certified-ai-practitioner" style="vertical-align: middle;"/>
+            </a>
+          </td>
+          <td style="width:16.66%; text-align: center; vertical-align: middle;">
+            <a href="https://www.credly.com/badges/dd2889e0-f25a-41c3-8fd1-2d8791001f0e/public_url">
+              <img src="https://github.com/user-attachments/assets/ff2a1ddc-5f6b-48fa-8b4e-039049b74893" alt="aws-certified-cloud-practitioner" style="vertical-align: middle;"/>
             </a>
           </td>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
@@ -354,23 +354,18 @@
             </a>
           </td>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
-            <a href="https://www.credly.com/badges/7d14d9e6-fc8e-4c8b-8fb2-844653e0f85c/public_url">
-              <img src="https://user-images.githubusercontent.com/54850956/196749297-dcb21c79-47d6-46a1-97a4-c29acb5d0d3e.png" alt="docker-essentials-a-developer-introduction" style="vertical-align: middle;"/>
-            </a>
-          </td>
-          <td style="width:16.66%; text-align: center; vertical-align: middle;">
             <a href="https://www.credly.com/badges/55873525-0b5e-492a-a36f-02d9f6d3aa04/public_url">
               <img src="https://user-images.githubusercontent.com/54850956/196749291-264702e8-6f9f-47c5-92e6-d586655cf57f.png" alt="containers-kubernetes-essentials" style="vertical-align: middle;"/>
             </a>
           </td>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
-            <a href="https://www.credly.com/badges/be0d1385-e8f0-45a9-b2d9-7458881b6f0a/public_url">
-              <img src="https://user-images.githubusercontent.com/54850956/196749322-0543fab8-9127-43fd-aa77-992d53035fe1.png" alt="ibm-ecosystem-cloud-native-developer" style="vertical-align: middle;"/>
+            <a href="https://www.credly.com/badges/30749b22-153a-482c-a86f-c00f45e5d9bc/public_url">
+              <img src="https://user-images.githubusercontent.com/54850956/196749334-f62e931e-fe70-4d6f-b5d2-08a579b138a4.png" alt="application-services-innovation-java-foundations" style="vertical-align: middle;"/>
             </a>
           </td>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
-            <a href="https://www.credly.com/badges/30749b22-153a-482c-a86f-c00f45e5d9bc/public_url">
-              <img src="https://user-images.githubusercontent.com/54850956/196749334-f62e931e-fe70-4d6f-b5d2-08a579b138a4.png" alt="application-services-innovation-java-foundations" style="vertical-align: middle;"/>
+            <a href="https://www.credly.com/badges/abeaa994-ead8-49ea-b407-8882e81ba1e8/public_url">
+              <img src="https://user-images.githubusercontent.com/54850956/228799143-15836ad5-9a60-4997-aad9-3d3a57742ac7.png" alt="microsoft-certified-azure-fundamentals" style="vertical-align: middle;"/>
             </a>
           </td>
         </tr>
@@ -384,21 +379,21 @@
   
   <table style="width:100%;">
     <tr>
-      <td style="width:33.33%; text-align: center; vertical-align: middle;">
+      <td style="width:50%; text-align: center; vertical-align: middle;">
         <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar7566&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Amit's github stats" style="width:100%; vertical-align: middle;"/></a>
       </td>
-      <td style="width:33.33%; text-align: center; vertical-align: middle;">
+      <td style="width:50%; text-align: center; vertical-align: middle;">
         <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar7566&layout=compact&theme=radical&hide_border=false" style="width:100%; vertical-align: middle;"/></a>
       </td>
-      <td style="width:33.33%; text-align: center; vertical-align: middle;">
+<!--       <td style="width:33.33%; text-align: center; vertical-align: middle;">
         <a href="https://github.com/amitkumar7566/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitkumar7566&theme=radical&hide_border=false" alt="Amit's github streaks" style="width:100%; vertical-align: middle;"/></a>
-      </td>
+      </td> -->
     </tr>
-    <tr>
+<!--     <tr>
       <td colspan="3" style="width:100%; text-align: center; vertical-align: middle;">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitkumar7566&theme=redical&bg_color=20232a&hide_border=false&radius=5" style="width:100%; vertical-align: middle;"/>
       </td>
-    </tr>
+    </tr> -->
   </table>
 </details>
 <p align="center" width="100%">
