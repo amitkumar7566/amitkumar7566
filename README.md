@@ -307,11 +307,6 @@
   <table style="width:100%;">
         <tr>
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
-            <a href="https://www.credly.com/badges/de66e82b-084e-436c-a485-e1bb52a0fa45/public_url">
-              <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" alt="aws-certified-security-specialty" style="vertical-align: middle;"/>
-            </a>
-          </td>
-          <td style="width:16.66%; text-align: center; vertical-align: middle;">
             <a href="https://www.credly.com/badges/1a553df4-2078-4aca-b6c3-6f3c64efb348/public_url">
               <img src="https://user-images.githubusercontent.com/54850956/196749273-d189e3b0-1aa5-42c7-88ec-c78aa002d35a.png" alt="aws-certified-solutions-architect-professional" style="vertical-align: middle;"/>
             </a>
@@ -321,6 +316,17 @@
               <img src="https://user-images.githubusercontent.com/54850956/196749266-79f2dbf5-96c9-49de-8b0b-9a0bbd37ea3f.png" alt="aws-certified-devops-engineer-professional" style="vertical-align: middle;"/>
             </a>
           </td>
+          <td style="width:16.66%; text-align: center; vertical-align: middle;">
+            <a href="https://www.credly.com/badges/6e5af041-deeb-4e99-b70a-990d60e2b3a7/public_url">
+              <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" alt="aws-certified-advanced-networking-specialty" style="vertical-align: middle;"/>
+            </a>
+          </td>
+          <td style="width:16.66%; text-align: center; vertical-align: middle;">
+            <a href="https://www.credly.com/badges/de66e82b-084e-436c-a485-e1bb52a0fa45/public_url">
+              <img src="https://user-images.githubusercontent.com/54850956/222715050-cafaa0fd-5233-4c3e-ac4b-6e2ec8f3acf4.png" alt="aws-certified-security-specialty" style="vertical-align: middle;"/>
+            </a>
+          </td>
+          
           <td style="width:16.66%; text-align: center; vertical-align: middle;">
             <a href="https://www.credly.com/badges/b13074ab-029c-4bb2-bf24-dc0431a5dbb2/public_url">
               <img src="https://user-images.githubusercontent.com/54850956/196749269-5d04b84b-e92d-487b-b05f-d3a9c0ba04eb.png" alt="aws-certified-solutions-architect-associate" style="vertical-align: middle;"/>
